@@ -26,6 +26,10 @@
 
 - 음성 검출 (Speech Activity Detection)
 
+  
+
+  ![SAD](./images/sad.png)
+
 - 화자 구분 (Speaker Diarization)
 
 - 음성 인식 (Speech Recognition)
