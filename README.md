@@ -66,9 +66,21 @@
 
 ![Oilbank](./images/oilbank.jpg)
 
+### 데이터셋 생성 툴
+
 인공지능 연구실에서는 **만시간 이상의 고품질의 데이터셋 확보**를 목표로 쉽고 빠르게 데이터셋을 생성하기 위한 전용 툴을 개발하고 있으며 음성 향상, 음성 검출, 화자 구분, 음성 인식, 기계 번역 모델을 위한 데이터셋을 확보하고 있습니다. 아래는 개발 중인 데이터셋 생성 툴(OnePunch)입니다.
 
-<img src="./images/ui_main.png" alt="Tools" style="zoom:50%;" />
+- 자막 불러 들이기
+
+  ![Subtitle Load](./images/peek_subtitle_load.gif)
+
+- 자막 편집
+
+  ![Subtitle edit](./images/peek_subtitle_edit.gif)
+
+- 오디오 및 자막 구간 시각화 및 상호 작용
+
+  ![Audio Visual](./images/peek_audio.gif)
 
 ## 서비스를 위한 업무 자동화 (Workflow)
 
