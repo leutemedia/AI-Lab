@@ -103,7 +103,7 @@
 인공지능 연구실에서는 웹애플리케이션 개발을 위해서 아래의 기술을 사용하고 있습니다.
 
 - [Nginx](http://nginx.org/) 웹서버
-- [Node.js](https://nodejs.org/) + [Express](https://expressjs.com/) 웹 프레임워크
+- [Django](https://www.djangoproject.com/) 웹 프레임워크
 - [mySQL](https://www.mysql.com/) 데이터베이스
 - [Vue](https://vuejs.org/) + [Vuex](https://vuex.vuejs.org/) 사용자 인터페이스
 - [React](https://reactjs.org/) + [Redux](https://redux.js.org/) 사용자 인터페이스
